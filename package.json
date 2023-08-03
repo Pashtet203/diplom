@@ -7,16 +7,25 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@liripeng/vue-audio-player": "^1.5.1",
     "core-js": "^3.8.3",
+    "recorder-js": "^1.0.7",
     "vue": "^3.2.13",
+    "vue-audio-recorder": "^3.0.1",
+    "vue-audio-tapir": "^1.5.0",
     "vue-router": "^4.0.3",
-    "vuex": "^4.0.0"
+    "vue-slider-component": "^3.2.24",
+    "vuex": "^4.0.0",
+    "web-audio-recorder-js": "^0.0.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~5.0.0",
     "@vue/cli-plugin-router": "~5.0.0",
     "@vue/cli-plugin-vuex": "~5.0.0",
-    "@vue/cli-service": "~5.0.0"
+    "@vue/cli-service": "~5.0.0",
+    "install": "^0.13.0",
+    "npm": "^9.6.6",
+    "tailwindcss": "^3.3.2"
   },
   "browserslist": [
     "> 1%",
